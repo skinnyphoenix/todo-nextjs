@@ -1,0 +1,18 @@
+.TodoList {
+  width: 100%;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  border-radius: 12px;
+  font-size: 2rem;
+  border: 1px solid black;
+  cursor: pointer;
+}

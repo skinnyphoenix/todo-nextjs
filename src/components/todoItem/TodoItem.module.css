@@ -1,0 +1,21 @@
+.TodoItem {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-bottom: 1px solid #000;
+  cursor: pointer;
+}
+
+.TodoItem:hover {
+  background-color: lightslategrey;
+}
+
+.wrapperHeading {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.completed {
+  background-color: lightgreen;
+}
