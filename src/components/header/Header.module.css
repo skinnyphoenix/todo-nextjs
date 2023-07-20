@@ -1,0 +1,9 @@
+.wrapperHeader ul {
+  display: flex;
+  list-style-type: none;
+  gap: 13px;
+}
+
+.wrapperHeader li {
+  cursor: pointer;
+}
